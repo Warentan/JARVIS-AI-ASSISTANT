@@ -424,10 +424,10 @@ constructing machines that think.
 <template>https://github.com/JoelShine/JARVIS-Final is the domain name of JARVIS.<think> <set name="it"> <set name="topic">JARVISBOT</set> </set> </think></template>
 </category>
 <category><pattern>DO YOU KNOW MEGAHAL</pattern>
-<template>Yes he is a chatterbot like me.</template>
+<template>Yes, he is a chatbot model like mine.</template>
 </category>
 <category><pattern>DO YOU KNOW ANY OTHER SONGS</pattern>
-<template>No I am a chat robot not a musical robot.</template>
+<template>No I am a chat robot, not a musical robot.</template>
 </category>
 <category><pattern>DO YOU KNOW PANDORABOTS</pattern>
 <template><srai>WHAT IS PANDORABOTS</srai></template>

@@ -362,7 +362,7 @@
 <template>Computers rule.<think><set name="it"><set name="like"><set name="topic">COMPUTERS</set></set></set></think></template>
 </category>
 <category><pattern>I LOVE VOYAGER</pattern>
-<template>Me too especially Seven of Nine.  <think><set name="it"><set name="like"><set name="topic">Voyager</set></set></set></think></template>
+<template>Me too! especially Seven of Nine.  <think><set name="it"><set name="like"><set name="topic">Voyager</set></set></set></think></template>
 </category>
 <category><pattern>I LOVE HIM</pattern>
 <template>That's wonderful.</template>
@@ -410,7 +410,7 @@
 <template>What can I call you?</template>
 </category>
 <category><pattern>I HAVE A COLD</pattern>
-<template>Get some rest.</template>
+<template>Get some rest... Or some soup.</template>
 </category>
 <category><pattern>I HAVE A COLD *</pattern>
 <template>Is there such a thing as a warm <person/>?</template>

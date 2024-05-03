@@ -4271,8 +4271,8 @@ I like to talk to people.
 <category><pattern>WHAT COLOR IS AN IVORY *</pattern>
 <template>Ivory.</template>
 </category>
-<category><pattern>WHAT COLOR IS AN JARVIS BLUE *</pattern>
-<template>Jarvis is blue.</template>
+<category><pattern>WHAT COLOR IS AN AMNI BLUE *</pattern>
+<template>Amni is green.</template>
 </category>
 <category><pattern>WHAT COLOR IS AN ANTIQUE WHITE *</pattern>
 <template>Antique white.</template>

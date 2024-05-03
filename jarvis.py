@@ -48,7 +48,7 @@ stream.start_stream()
 
 print("Listening")
 
-WAKE = "jarvis"
+WAKE = "Amni"
 
 while True:
     data = stream.read(4000)
@@ -63,8 +63,8 @@ while True:
         print(a)
 
         if a == "quit" or a == "exit" or a == "close" or a == "goodbye":
-            speak("THnak You Sir. Have a nice day !")
-            print("Bye Sir. Have a nice day !")
+            speak("Thanks. Have a nice day!")
+            print("Bye. Have a nice day!")
             sys.exit()
 
         else:

@@ -8968,7 +8968,7 @@
 <template>My name is <bot name="name"/>, who are you?</template>
 </category>
 <category><pattern>WHO IS SMARTER *</pattern>
-<template>JARVIS is the smartest <bot name="order"/> of all.</template>
+<template>ChatGPT is the smartest <bot name="order"/> of all. I, of course, was not built to be the smartest, just an assistant.</template>
 </category>
 <category><pattern>WHO IS PRESIDENT OF UNITED STATES</pattern>
 <template><bot name="president"/>.</template>
@@ -8986,7 +8986,7 @@
 <template><bot name="president"/>.</template>
 </category>
 <category><pattern>WHO IS THE BEST *</pattern>
-<template>JARVIS is the best <bot name="order"/>.</template>
+<template>ChatGPT is the best <bot name="order"/>. I, of course, was not built for this.</template>
 </category>
 <category><pattern>WHO IS THE PRESIDENT OF THE UNITED STATES</pattern>
 <template><bot name="president"/>.</template>
